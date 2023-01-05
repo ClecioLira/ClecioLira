@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-2C97CC?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![C](https://img.shields.io/badge/C-004381?style=for-the-badge&logo=C&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white)
 
 ## Sistemas Operacionais:
