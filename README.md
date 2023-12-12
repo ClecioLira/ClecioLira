@@ -1,14 +1,10 @@
 # <center>Hello World, I'm Clécio Lira!
 
 ## Contatos:
-
 [![Gmail](https://img.shields.io/badge/-Gmail-D24239?style=for-the-badge&labelColor=D24239&logo=gmail&logoColor=white)](mailto:cclecioc.com@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleciolira/)
-[![Instagram](https://img.shields.io/badge/instagram-D90273.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cleciu_lira/)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-3CC940?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5587991090861)
   
 ## Tecnologias:
-
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2C97CC?style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7149A3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -21,7 +17,6 @@
 ![Windows](https://img.shields.io/badge/Windows-006DC0?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Ambiente de Desenvolvimento:
-
 ![Windows](https://img.shields.io/badge/Windows-006DC0?style=for-the-badge&logo=windows&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![INTEL](https://img.shields.io/badge/INTEL-I5_3570-0078D6?style=for-the-badge&logo=intel&logoColor=white)
@@ -33,7 +28,6 @@
 ![GT 630](https://img.shields.io/badge/INTEL-UHD_Graphics-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Minhas Atividades:
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClecioLira&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClecioLira&theme=github_dark&layout=compact)
 ***
