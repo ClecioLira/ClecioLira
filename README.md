@@ -11,6 +11,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/React-2C97CC?style=for-the-badge&logo=react&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/NODE.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3673A5?style=for-the-badge&logo=python&logoColor=FFD342)
 ![GIT](https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white)
 
 ## Sistemas Operacionais:
