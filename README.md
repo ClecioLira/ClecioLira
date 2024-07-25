@@ -25,7 +25,7 @@
 ![GT 630](https://img.shields.io/badge/NVIDIA-GT_630-72B300?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ![Windows](https://img.shields.io/badge/Windows-006DC0?style=for-the-badge&logo=windows&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-4GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![INTEL](https://img.shields.io/badge/INTEL-I3_1115-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 ![GT 630](https://img.shields.io/badge/INTEL-UHD_Graphics-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 
