@@ -36,6 +36,5 @@
 ![GT 630](https://img.shields.io/badge/INTEL-UHD_Graphics-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 
 ## Minhas Atividades:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClecioLira&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClecioLira&theme=github_dark&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClecioLira&theme=tokyonight-duo&locale=pt_BR)](https://git.io/streak-stats)
 ***
