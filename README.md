@@ -1,10 +1,10 @@
 # <center>Hello World, I'm Clécio Lira!
 
-## Contatos:
+## Contatos :
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A63BC?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cleciolira/)
 [![Instagram](https://img.shields.io/badge/-Instagram-DD4B25?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/cleciu_lira/)
   
-## Tecnologias:
+## Conhecimentos :
 ![HTML5](https://img.shields.io/badge/HTML5-DD4B25?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2C97CC?style=for-the-badge&logo=css3&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-7149A3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -20,11 +20,13 @@
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white)
+![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Sistemas Operacionais:
+
+## Sistemas Operacionais :
 ![Windows](https://img.shields.io/badge/Windows-006DC0?style=for-the-badge&logo=windows&logoColor=white)
 
-## Ambiente de Desenvolvimento:
+## Ambiente de Desenvolvimento :
 ![Windows](https://img.shields.io/badge/Windows-006DC0?style=for-the-badge&logo=windows&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![INTEL](https://img.shields.io/badge/INTEL-I5_3570-0078D6?style=for-the-badge&logo=intel&logoColor=white)
@@ -35,6 +37,6 @@
 ![INTEL](https://img.shields.io/badge/INTEL-I3_1115-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 ![GT 630](https://img.shields.io/badge/INTEL-UHD_Graphics-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 
-## Minhas Atividades:
+## Minhas Atividades :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClecioLira&theme=tokyonight-duo&locale=pt_BR)](https://git.io/streak-stats)
 ***
