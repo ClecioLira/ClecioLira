@@ -21,6 +21,7 @@
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![SASS](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
 ## Sistemas Operacionais :
@@ -36,7 +37,4 @@
 ![RAM](https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![INTEL](https://img.shields.io/badge/INTEL-I3_1115-0078D6?style=for-the-badge&logo=intel&logoColor=white)
 ![GT 630](https://img.shields.io/badge/INTEL-UHD_Graphics-0078D6?style=for-the-badge&logo=intel&logoColor=white)
-
-## Minhas Atividades :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ClecioLira&theme=tokyonight-duo&locale=pt_BR)](https://git.io/streak-stats)
 ***
